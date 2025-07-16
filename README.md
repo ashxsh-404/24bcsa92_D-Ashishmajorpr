@@ -33,4 +33,4 @@ cargo run
 `http://127.0.0.1:3000/`
 
 ## 📬 Author
-Sanket Suman Bastia (B.Tech CSE, SiliconTech)
+D Ashish
